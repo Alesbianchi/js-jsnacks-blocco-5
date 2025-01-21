@@ -8,5 +8,11 @@ const people = [
 // Risultato: 'Paolo', 'Giulia', 'Marco'
 
 //utilizzo il ciclo map per ritornare una copia dell'array con solo i nomi
+const arrayNomi = people.map((persona) => {
+  
+  return persona.name;
+
+});      
 
 //dtampo il risultato
+console.log(arrayNomi);
