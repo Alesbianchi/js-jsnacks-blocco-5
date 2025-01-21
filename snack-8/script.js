@@ -25,7 +25,7 @@ const students = [
 //Utilizzo ciclo find affinchè una volta trovata la classe assegnata interrompa il ciclo
 
 const oneStudent = students.find((studente) => {
-  return studente.id === 1;
+  return studente.name === 'Marco Lanci';
 
 });
 
