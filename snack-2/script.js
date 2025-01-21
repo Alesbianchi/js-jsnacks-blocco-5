@@ -6,3 +6,7 @@ const people = [
 
 // Stampa in console tutti i nomi
 // Risultato: 'Paolo', 'Giulia', 'Marco'
+
+//utilizzo il ciclo map per ritornare una copia dell'array con solo i nomi
+
+//dtampo il risultato
