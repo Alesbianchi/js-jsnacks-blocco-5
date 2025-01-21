@@ -5,9 +5,10 @@ const names = ['Edoardo', 'Simone', 'Francesco'];
 
 
 //genero un ciclo forEach per tirar fuori gli elementi dell'array
-names.forEach((name, index) =>{
+names.forEach((name) =>{
 
-    //stampo il risultato utilizzando il template literal
+    //stampo il risultato
+    console.log(name);
     
     
     
