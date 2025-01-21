@@ -5,7 +5,12 @@ const numbers = [2, 8, 4, 7, 2, 87];
 
 
 //utilizzo il ciclo map per creare una copia dell'array a cui andrò ad aggiungere valori agli elementi
+const somma = numbers.map((number) =>{
+    return number + 1;
+});
 
 //stampo il risultato
+console.log(somma);
+
 
 
