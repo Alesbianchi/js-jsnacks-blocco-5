@@ -9,6 +9,8 @@ const posts = [
 // Risultato: ['Marco', 'Luca', 'Fabrizio', 'Enrico']
 
 //utilizzo il ciclo map per creare un'array con i nomi degli autori
-
-
-//stampo il risultato
+const arrayAutor = posts.map((nomi) =>{
+  //stampo il risultato
+  console.log(nomi.author);
+  
+})
