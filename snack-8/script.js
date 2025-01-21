@@ -21,3 +21,7 @@ const students = [
 
 // Recupera la classe dello studente 'Marco Lanci'
 // Risultato: '3C'
+
+//Utilizzo ciclo find affinchè una volta trovata la classe assegnata interrompa il ciclo
+
+//stampo il risultato
