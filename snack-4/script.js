@@ -7,3 +7,8 @@ const posts = [
 
 // Crea un nuovo array coi nomi di tutti gli autori
 // Risultato: ['Marco', 'Luca', 'Fabrizio', 'Enrico']
+
+//utilizzo il ciclo map per creare un'array con i nomi degli autori
+
+
+//stampo il risultato
